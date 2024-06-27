@@ -406,7 +406,7 @@
         "type": "debug",
         "z": "af4432836690c114",
         "name": "debug 1",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
